@@ -1,0 +1,31 @@
+# LaTeX auxiliary files
+*.aux
+*.fls
+*.log
+*.out
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.idx
+*.ilg
+*.ind
+*.lol
+*.xdv
+*.dvi
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.acn
+*.acr
+*.alg
+
+# LaTeX build directory (if using -output-directory)
+build/
+out/
